@@ -1,5 +1,5 @@
 1.
-git commit -amend  : Vào chế độ dòng lệnh để sửa message
+git commit --amend  : Vào chế độ dòng lệnh để sửa message
 git commit --amend -m"message" : Thay đổi  message của commit
 git reset HEAD~1  : đưa từ vùng repository về working directory
 git restore --staged <file> : đưa file từ staging về working directory

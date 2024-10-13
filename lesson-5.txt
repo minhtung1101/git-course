@@ -1,0 +1,26 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì? 
+- html
+- div
+- h1 ~ h6
+- form
+- input
+- textarea
+- option
+- select
+- iframe
+- img
+- time
+- title
+- tbody
+- table
+- td 
+- button
+......
+
+2. Hãy mô tả cấu trúc html của 1 bảng (table)
+Thẻ table
+- thead = table heading
+- tr = table row = 1 dòng
+- th: table heading: text in đậm
+- tbody
+- tr -> td = table data
